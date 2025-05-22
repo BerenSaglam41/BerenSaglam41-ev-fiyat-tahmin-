@@ -54,3 +54,4 @@ Bu proje, Akbank Makine Öğrenmesi Bootcamp kapsamında geliştirilmiş gözeti
 -Kariyerim İçin: Bu proje benim yapay zeka ve veri bilimi alanında ilerlememi sağladı. Gelecekte bu alanda daha çok şey öğrenip, bu tür projelerde çalışmak ve kendimi geliştirmek istiyorum.  
 # Linkler
   -https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+  -https://www.kaggle.com/code/mustafaberen/house-regressions
