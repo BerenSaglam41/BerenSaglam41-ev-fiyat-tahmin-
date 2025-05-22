@@ -1,1 +1,2 @@
-# BerenSaglam41-ev-fiyat-tahmin-
+# Giriş
+Ben kaggle üzerinden https://www.kaggle.com/datasets/harlfoxem/housesalesprediction ini seçtim
